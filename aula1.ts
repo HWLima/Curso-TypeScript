@@ -1,3 +1,6 @@
+// Tipagem de Dados #01
+// tsc aula1
+
 class Default{
     texto: string;
     numero: number;
